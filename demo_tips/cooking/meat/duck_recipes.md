@@ -4,3 +4,6 @@ Duck for pizza
 2. Set a low temperature
 3. Surf the net for just a little while
 4. 4 hours later, eat some yoghourt/pizza
+
+[tip]
+Organize yourself to not be a delayed duck. Set duck alarm.
